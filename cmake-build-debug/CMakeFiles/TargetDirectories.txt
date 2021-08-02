@@ -1,0 +1,3 @@
+/Users/nhstaple/Desktop/HDEngine/sandbox/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nhstaple/Desktop/HDEngine/sandbox/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nhstaple/Desktop/HDEngine/sandbox/cmake-build-debug/CMakeFiles/sandbox.dir
